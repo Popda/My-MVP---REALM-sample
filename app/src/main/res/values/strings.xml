@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NS_TestTask</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="text">Text</string>
+    <string name="add_note">Please fill in the forms</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_time">Time</string>
+    <string name="hint_text">Text</string>
+    <string name="add">add</string>
+    <string name="note_text">%1$s</string>
+</resources>
